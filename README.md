@@ -28,3 +28,10 @@ The objective of this project is to classify customer messages into different in
 
 ## Technologies Used
 Python, Pandas, NLTK, Scikit-learn, Matplotlib, Seaborn
+
+## Conclusion
+
+This project demonstrates an end-to-end NLP pipeline for multi-class customer intent detection.
+The model shows strong performance with minimal confusion between semantically similar intents,
+making it suitable for real-world customer support automation and ticket routing systems.
+
